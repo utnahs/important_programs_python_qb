@@ -1,2 +1,2 @@
-# Statistics-with-QBasic
+# statistics-with-qbasic
 Few programs to find central tendency
